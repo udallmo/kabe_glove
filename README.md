@@ -1,6 +1,6 @@
 # Kabe-Glove
 
-Recreating those movie magic moments in real life through the creation of a glove that triggers soundtracks by the user's glove input. There 16 different scenarios can be triggered, using the 4 input button found inside the glove
+Recreating those movie magic moments in real life through the creation of a glove that triggers soundtracks by the user's glove input. There 16 different scenarios that can be triggered, using the 4 input button found inside the glove
 
 ## Getting Started
 
